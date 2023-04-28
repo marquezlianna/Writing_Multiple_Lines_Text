@@ -1,5 +1,5 @@
 # Marquez, Lianna L.
-# Assignment4_ Problem3
+# Assignment4_Problem3
 
 # Write a method in python to write multiple line of text contents into a text file mylife.txt.
 # See sample output:
@@ -20,8 +20,10 @@ def write():
         # Write line
         my_file.write(line.strip())
         # choose if there are more lines
-        choice = input("Are there more line (y/n): ")
-        if choice == "n"
-            break        
+        choice = input("Are there more line (Y/N): ")
+        if choice == "N":
+            break    
 
+# === start === 
+write()
 
