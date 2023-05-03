@@ -1,7 +1,7 @@
 # Marquez, Lianna L.
 # Assignment4_Problem3
 
-# Write a method in python to write multiple line of text contents into a text file mylife.txt.
+# Write a method in python to write multiple line of text contents into a text file myfile.txt.
 # See sample output:
         #Enter line: Beautiful is better than ugly.
         #Are there more lines y/n? y
